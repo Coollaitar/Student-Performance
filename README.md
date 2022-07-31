@@ -12,4 +12,4 @@ Analysis done on Parental Level of Education and Race Groups.
 LinkedIn : https://www.linkedin.com/in/aadit-palande-839a8b22a
 
 
-Kaggle Dataset : 
+Kaggle Dataset : StudentsPerformance.csv
